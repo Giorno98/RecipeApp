@@ -1,5 +1,5 @@
 # RecipeApp
-RacipeApp 
+RecipeApp 
 
 This application develops lists typical Indian Recipes , ingredients and procedure for cooking them. 
 
