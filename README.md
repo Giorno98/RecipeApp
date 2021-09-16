@@ -7,3 +7,6 @@ This application develops lists typical Indian Recipes , ingredients and procedu
 - Android Studio(Ide) 
 - Kotlin 
 - Xml
+
+Project realized by Davide Carobene , Bernardo Iamicella 
+Davide Carobene github:https://github.com/Giorno98
